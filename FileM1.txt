@@ -1,4 +1,4 @@
-Rencana
+Rencana Step:
 Membuat FileM1.txt di Master
 Membuat FileM2.txt di Master
 Membuat Branch "Cabang"
