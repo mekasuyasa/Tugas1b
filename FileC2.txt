@@ -1,1 +1,2 @@
 Membuat FileC2.txt
+Nenambah baris ke2
