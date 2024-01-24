@@ -4,4 +4,3 @@ Membuat FileM2.txt di Master
 Membuat Branch "Cabang"
 Membuat FileC1.txt di Cabang
 Membuat FileM3.txt di Master
-Menambah FileM4.txt di Master
